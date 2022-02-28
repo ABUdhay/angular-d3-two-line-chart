@@ -1,0 +1,41 @@
+p {
+  font-family: Lato;
+}
+
+svg {
+    font-family: Sans-Serif, Arial;
+}
+.line {
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path {
+  stroke: black;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.title-text {
+  font-size: 12px;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.grid tick {
+  stroke-opacity: 0.7;
+  stroke-dasharray: 5 5;
+}
+
+.grid path {
+}
+
+.NaN {
+  display: none;
+}
